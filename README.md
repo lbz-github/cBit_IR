@@ -1,8 +1,8 @@
- # mbit_IR for micro-bit
+ # cbit_IR for micro-bit
 
-Extension for Yahboom mbit_IR
+Extension for ZYRobot cbit_IR
 
-Note: IR receiver for Yahboom receiver
+Note: IR receiver for ZYRobot receiver
 
 ## License
 
