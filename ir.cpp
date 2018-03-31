@@ -37,6 +37,7 @@ enum class RemoteButton {
 	  NEXT = 0x40,
 	  NUM_100 = 0x19,
 	  Minus = 0x7,
+	  Add = 0x15,
 	  EQ = 0x9,
 	  NUM0 = 0x16,
 	  NUM1 = 0xc,
